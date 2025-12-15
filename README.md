@@ -21,9 +21,12 @@
 - ✅ C, C++
 - ✅ Object-Oriented Programming with Java
 - ✅ Database Management Systems (DBMS)
-- ✅ Algorithms & Operating Systems
+- ✅ Data Structures & Algorithms
 - ✅ Statistics for Data Science
 - ✅ Discrete Mathematics
+- ✅ Artificial Intelligence
+- ✅ Information System Analysis and Design
+- ✅ Operating Systems
 
 ---
 
