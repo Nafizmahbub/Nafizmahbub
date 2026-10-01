@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nafiz Ibna Mahobub!
+#  Hi there, I'm Nafiz Ibna Mahobub!
 
 🎓 CSE Student at **East West University**  
 💻 Future Web Developer & Problem Solver  
